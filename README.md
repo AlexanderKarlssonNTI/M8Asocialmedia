@@ -11,5 +11,7 @@ Run `php artisan serve` to start the Laravel application locally
 Project is under index
 
 Original collaboratoars:
+
 https://github.com/isakjensen
+
 https://github.com/Emilaberg
