@@ -9,3 +9,7 @@ Run `php artisan key:generate` to generate the key (.env file required), this cr
 Run `php artisan serve` to start the Laravel application locally
 
 Project is under index
+
+Original collaboratoars:
+https://github.com/isakjensen
+https://github.com/Emilaberg
